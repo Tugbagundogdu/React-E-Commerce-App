@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: violet;
+}
+.icon{
+    display: flex;
+    flex-direction: column;
+}
+.span{
+    background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 10px;
+}

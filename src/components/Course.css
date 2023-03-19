@@ -1,0 +1,52 @@
+.title{
+    text-align: center;
+}
+.boş{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.course{
+    display: flex;
+    justify-content:space-between;
+    margin: 50px 100px;
+}
+.quantity{
+    margin-right: 8px;
+}
+.description{
+text-align: right;
+}
+
+.btn{
+    border: none;
+    background-color: white;
+
+}
+
+.silButonu{
+    border: none;
+    width: 80px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    margin-top: 20px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+
+.footer button {
+    padding: 10px;
+    border: none;
+    background-color: rgb(40, 40, 131);
+    border-radius: 30px;
+    color: white;
+
+}
